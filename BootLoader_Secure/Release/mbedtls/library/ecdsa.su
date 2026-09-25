@@ -1,0 +1,16 @@
+../mbedtls/library/ecdsa.c:204:12:derive_mpi	24	static
+../mbedtls/library/ecdsa.c:226:5:mbedtls_ecdsa_can_do	0	static
+../mbedtls/library/ecdsa.c:244:5:mbedtls_ecdsa_sign_restartable	104	static
+../mbedtls/library/ecdsa.c:371:5:mbedtls_ecdsa_sign	48	static
+../mbedtls/library/ecdsa.c:388:5:mbedtls_ecdsa_sign_det_restartable	280	static
+../mbedtls/library/ecdsa.c:461:5:mbedtls_ecdsa_sign_det_ext	32	static
+../mbedtls/library/ecdsa.c:479:5:mbedtls_ecdsa_verify_restartable	104	static
+../mbedtls/library/ecdsa.c:587:5:mbedtls_ecdsa_verify	24	static
+../mbedtls/library/ecdsa.c:630:5:mbedtls_ecdsa_write_signature_restartable	176	static
+../mbedtls/library/ecdsa.c:679:5:mbedtls_ecdsa_write_signature	32	static
+../mbedtls/library/ecdsa.c:705:5:mbedtls_ecdsa_read_signature_restartable	72	static
+../mbedtls/library/ecdsa.c:694:5:mbedtls_ecdsa_read_signature	16	static
+../mbedtls/library/ecdsa.c:767:5:mbedtls_ecdsa_genkey	24	static
+../mbedtls/library/ecdsa.c:799:6:mbedtls_ecdsa_init	0	static
+../mbedtls/library/ecdsa.c:807:6:mbedtls_ecdsa_free	0	static
+../mbedtls/library/ecdsa.c:784:5:mbedtls_ecdsa_from_keypair	16	static

@@ -1,0 +1,11 @@
+../mbedtls/library/sha256.c:228:6:mbedtls_sha256_init	1
+../mbedtls/library/sha256.c:233:6:mbedtls_sha256_free	2
+../mbedtls/library/sha256.c:242:6:mbedtls_sha256_clone	1
+../mbedtls/library/sha256.c:251:5:mbedtls_sha256_starts	2
+../mbedtls/library/sha256.c:495:5:mbedtls_internal_sha256_process	6
+../mbedtls/library/sha256.c:648:5:mbedtls_sha256_update	10
+../mbedtls/library/sha256.c:703:5:mbedtls_sha256_finish	5
+../mbedtls/library/sha256.c:881:12:mbedtls_sha256_common_self_test	15
+../mbedtls/library/sha256.c:776:5:mbedtls_sha256	4
+../mbedtls/library/sha256.c:968:5:mbedtls_sha256_self_test	1
+../mbedtls/library/sha256.c:975:5:mbedtls_sha224_self_test	1
