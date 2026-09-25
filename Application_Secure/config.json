@@ -1,0 +1,9 @@
+{
+    "input_dir": "",
+    "input": "Application.bin",
+    "output_dir": "",
+    "output": "Secure_Application.bin",
+    "header_addr": "0x0800FFD4",
+    "app_addr": "0x08010000",
+    "validation_type": "sha256"
+}
