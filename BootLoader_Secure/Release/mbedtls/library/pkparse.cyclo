@@ -1,8 +1,0 @@
-../mbedtls/library/pkparse.c:471:12:pk_get_pk_alg	8
-../Core/Inc/mbedtls/pk.h:1044:36:mbedtls_pk_rsa	2
-../mbedtls/library/pkparse.c:389:12:pk_use_ecparams	3
-../mbedtls/library/pkparse.c:604:12:pk_parse_key_sec1_der	22
-../mbedtls/library/pkparse.c:742:12:pk_parse_key_pkcs8_unencrypted_der	21
-../mbedtls/library/pkparse.c:517:5:mbedtls_pk_parse_subpubkey	15
-../mbedtls/library/pkparse.c:973:5:mbedtls_pk_parse_key	25
-../mbedtls/library/pkparse.c:1180:5:mbedtls_pk_parse_public_key	15

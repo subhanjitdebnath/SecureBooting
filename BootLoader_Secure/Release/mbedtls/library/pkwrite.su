@@ -1,7 +1,0 @@
-../Core/Inc/mbedtls/pk.h:1067:36:mbedtls_pk_ec	16	static
-../mbedtls/library/pkwrite.c:121:12:pk_write_ec_pubkey	136	static
-../mbedtls/library/pkwrite.c:232:12:pk_write_ec_param	24	static
-../mbedtls/library/pkwrite.c:194:12:pk_write_ec_private	72	static
-../mbedtls/library/pkwrite.c:421:5:mbedtls_pk_write_pubkey	24	static
-../mbedtls/library/pkwrite.c:447:5:mbedtls_pk_write_pubkey_der	64	static
-../mbedtls/library/pkwrite.c:514:5:mbedtls_pk_write_key_der	72	static

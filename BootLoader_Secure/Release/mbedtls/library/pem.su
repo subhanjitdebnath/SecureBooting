@@ -1,3 +1,0 @@
-../mbedtls/library/pem.c:38:6:mbedtls_pem_init	0	static
-../mbedtls/library/pem.c:271:5:mbedtls_pem_read_buffer	48	static
-../mbedtls/library/pem.c:485:6:mbedtls_pem_free	8	static

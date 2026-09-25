@@ -1,9 +1,0 @@
-../Core/Src/Validation.c:18:6:Jump_to_application	2
-../Core/Src/Validation.c:28:6:Validate_application	2
-../Core/Src/Validation.c:46:6:Jump_to_RST	1
-../Core/Src/Validation.c:52:6:Read_App_Header	1
-../Core/Src/Validation.c:60:6:sha256_transform	4
-../Core/Src/Validation.c:101:6:sha256_init	1
-../Core/Src/Validation.c:115:6:sha256_update	3
-../Core/Src/Validation.c:128:6:sha256_final	5
-../Core/Src/Validation.c:170:6:compute_app_sha256	2
